@@ -8,3 +8,4 @@ Current stock prediction algorithms are structured for overseas markets in devel
 ## Objective
 
 Development of a web-based application that displays predicted stock prices with respect to accuracy from previous predictions. The application has a dashboard that displays flowcharts showing probable prices, together with general market mood meters (bearish/bullish)
+The first prototype predicts stock prices for US conglomerates. NSE API still in configuration
